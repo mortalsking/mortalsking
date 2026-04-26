@@ -12,14 +12,11 @@
 ![](https://streak-stats.demolab.com/?user=mortalsking&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mortalsking&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mortalsking&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mortalsking&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=mortalsking&icon=0&color=0)](https://visitcount.itsvg.in)
