@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Rushikesh Bardkesar! 👋
 
 I'm a Computer Science Engineering student focused on problem-solving, algorithms, and building automation tools. 
 
@@ -6,7 +6,7 @@ I'm a Computer Science Engineering student focused on problem-solving, algorithm
 * 🎓 Currently navigating through my CS degree and keeping a strong focus on personal development.
 * 💻 I spend a lot of my time doing competitive programming and optimizing algorithms.
 * 🛠️ I love building scripts that make life easier (like automating Git commits or managing schedules).
-* 📫 How to reach me: **[Your Email or LinkedIn]**
+* 📫 How to reach me: Rushikeshbardeskar20@gmail.com
 
 ---
 
@@ -25,8 +25,8 @@ I'm a Computer Science Engineering student focused on problem-solving, algorithm
 
 ### 🏆 Competitive Programming
 I actively practice data structures and algorithms across various platforms:
-* ⚔️ **LeetCode:** [Link to your profile]
-* 📊 **Codeforces:** [Link to your profile]
+* ⚔️ **LeetCode:** 
+* 📊 **Codeforces:** 
 * 👨‍💻 **CodeChef & AtCoder:** Always looking to improve my rating.
 
 ---
